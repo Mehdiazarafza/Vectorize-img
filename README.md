@@ -1,1 +1,1 @@
-# Vectorize-img
+# Vectorize input image based on CNN
